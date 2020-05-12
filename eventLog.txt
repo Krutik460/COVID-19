@@ -1,0 +1,150 @@
+2020/03/23 17:11:17 - PA DATA CHECK (Update Needed)
+  -- 2020/03/23 17:11:17 All Mail Sent to PennsylvaniaSubscribers
+2020/03/23 20:28:27 - PA DATA CHECK (No Update)
+2020/03/23 22:59:50 - PA DATA CHECK (No Update)
+2020/03/24 01:59:55 - PA DATA CHECK (No Update)
+2020/03/24 06:33:54 - PA DATA CHECK (No Update)
+2020/03/24 12:46:44 - PA DATA CHECK (Update Needed)
+  -- 2020/03/24 12:46:44 All Mail Sent to Pennsylvania Subscribers
+2020/03/25 10:30:20 - PA DATA CHECK (No Update)
+2020/03/25 12:40:58 - PA DATA CHECK (Update Needed)
+  -- 2020/03/25 12:40:58 All Mail Sent to Pennsylvania Subscribers
+2020/03/26 12:36:04 - PA DATA CHECK (Update Needed)
+  -- 2020/03/26 12:36:04 All Mail Sent to Pennsylvania Subscribers
+2020/03/26 12:58:24 - US DATA CHECK (Update Needed)
+  -- 2020/03/26 12:58:24 All Mail Sent to United States Subscribers
+2020/03/27 12:08:10 - PA DATA CHECK (No Update)
+2020/03/27 12:11:04 - PA DATA CHECK (Update Needed)
+  -- 2020/03/27 12:11:04 All Mail Sent to Pennsylvania Subscribers
+2020/03/27 12:24:26 - US DATA CHECK (Update Needed)
+  -- 2020/03/27 12:24:26 All Mail Sent to United States Subscribers
+2020/03/28 11:09:59 - US DATA CHECK (Update Needed)
+  -- 2020/03/28 11:09:59 All Mail Sent to United States Subscribers
+2020/03/28 12:04:30 - PA DATA CHECK (Update Needed)
+  -- 2020/03/28 12:04:30 All Mail Sent to Pennsylvania Subscribers
+2020/03/29 08:56:01 - US DATA CHECK (Update Needed)
+  -- 2020/03/29 08:56:01 All Mail Sent to United States Subscribers
+2020/03/29 12:18:50 - PA DATA CHECK (Update Needed)
+  -- 2020/03/29 12:18:50 All Mail Sent to Pennsylvania Subscribers
+2020/03/30 11:00:27 - US DATA CHECK (Update Needed)
+  -- 2020/03/30 11:00:27 All Mail Sent to United States Subscribers
+2020/03/30 12:29:15 - PA DATA CHECK (Update Needed)
+  -- 2020/03/30 12:29:15 All Mail Sent to Pennsylvania Subscribers
+2020/03/31 10:01:50 - US DATA CHECK (Update Needed)
+  -- 2020/03/31 10:01:50 All Mail Sent to United States Subscribers
+2020/03/31 12:39:39 - PA DATA CHECK (Update Needed)
+  -- 2020/03/31 12:39:39 All Mail Sent to Pennsylvania Subscribers
+2020/04/01 12:18:01 - PA DATA CHECK (Update Needed)
+  -- 2020/04/01 12:18:01 All Mail Sent to Pennsylvania Subscribers
+2020/04/01 13:35:33 - US DATA CHECK (Update Needed)
+  -- 2020/04/01 13:35:33 All Mail Sent to United States Subscribers
+2020/04/02 11:59:52 - US DATA CHECK (Update Needed)
+  -- 2020/04/02 11:59:52 All Mail Sent to United States Subscribers
+2020/04/02 13:09:26 - PA DATA CHECK (Update Needed)
+  -- 2020/04/02 13:09:26 All Mail Sent to Pennsylvania Subscribers
+2020/04/03 12:13:08 - PA DATA CHECK (Update Needed)
+  -- 2020/04/03 12:13:08 All Mail Sent to Pennsylvania Subscribers
+2020/04/03 12:13:08 - US DATA CHECK (Update Needed)
+  -- 2020/04/03 12:13:08 All Mail Sent to United States Subscribers
+2020/04/04 12:13:02 - PA DATA CHECK (Update Needed)
+  -- 2020/04/04 12:13:02 All Mail Sent to Pennsylvania Subscribers
+2020/04/04 12:15:00 - US DATA CHECK (Update Needed)
+  -- 2020/04/04 12:15:00 All Mail Sent to United States Subscribers
+2020/04/05 16:10:46 - PA DATA CHECK (Update Needed)
+  -- 2020/04/05 16:10:46 All Mail Sent to Pennsylvania Subscribers
+2020/04/05 16:10:46 - US DATA CHECK (Update Needed)
+  -- 2020/04/05 16:10:46 All Mail Sent to United States Subscribers
+2020/04/06 13:51:24 - US DATA CHECK (Update Needed)
+  -- 2020/04/06 13:51:24 All Mail Sent to United States Subscribers
+2020/04/06 13:52:28 - PA DATA CHECK (Update Needed)
+  -- 2020/04/06 13:52:28 All Mail Sent to Pennsylvania Subscribers
+2020/04/07 14:55:55 - PA DATA CHECK (Update Needed)
+  -- 2020/04/07 14:55:55 All Mail Sent to Pennsylvania Subscribers
+2020/04/07 15:30:15 - US DATA CHECK (Update Needed)
+  -- 2020/04/07 15:30:15 All Mail Sent to United States Subscribers
+2020/04/08 13:07:39 - PA DATA CHECK (Update Needed)
+  -- 2020/04/08 13:07:39 All Mail Sent to Pennsylvania Subscribers
+2020/04/08 13:09:01 - US DATA CHECK (Update Needed)
+  -- 2020/04/08 13:09:01 All Mail Sent to United States Subscribers
+2020/04/09 15:13:24 - PA DATA CHECK (Update Needed)
+  -- 2020/04/09 15:13:24 All Mail Sent to Pennsylvania Subscribers
+2020/04/09 15:14:05 - US DATA CHECK (Update Needed)
+  -- 2020/04/09 15:14:05 All Mail Sent to United States Subscribers
+2020/04/10 12:23:28 - US DATA CHECK (Update Needed)
+  -- 2020/04/10 12:23:28 All Mail Sent to United States Subscribers
+2020/04/10 12:24:05 - PA DATA CHECK (Update Needed)
+  -- 2020/04/10 12:24:05 All Mail Sent to Pennsylvania Subscribers
+2020/04/12 11:18:43 - PA DATA CHECK (Update Needed)
+  -- 2020/04/12 11:18:43 All Mail Sent to Pennsylvania Subscribers
+2020/04/12 11:23:22 - US DATA CHECK (Update Needed)
+  -- 2020/04/12 11:23:22 All Mail Sent to United States Subscribers
+2020/04/13 11:49:30 - US DATA CHECK (Update Needed)
+  -- 2020/04/13 11:49:30 All Mail Sent to United States Subscribers
+2020/04/13 11:50:13 - PA DATA CHECK (Update Needed)
+  -- 2020/04/13 11:50:13 All Mail Sent to Pennsylvania Subscribers
+2020/04/14 14:08:51 - PA DATA CHECK (Update Needed)
+  -- 2020/04/14 14:08:51 All Mail Sent to Pennsylvania Subscribers
+2020/04/14 14:09:58 - US DATA CHECK (Update Needed)
+  -- 2020/04/14 14:09:58 All Mail Sent to United States Subscribers
+2020/04/16 15:07:54 - PA DATA CHECK (Update Needed)
+  -- 2020/04/16 15:07:54 All Mail Sent to Pennsylvania Subscribers
+2020/04/17 12:22:50 - PA DATA CHECK (Update Needed)
+  -- 2020/04/17 12:22:50 All Mail Sent to Pennsylvania Subscribers
+2020/04/19 11:27:08 - PA DATA CHECK (Update Needed)
+  -- 2020/04/19 11:27:08 All Mail Sent to Pennsylvania Subscribers
+2020/04/20 13:08:49 - PA DATA CHECK (Update Needed)
+  -- 2020/04/20 13:08:49 All Mail Sent to Pennsylvania Subscribers
+2020/04/21 17:12:08 - PA DATA CHECK (Update Needed)
+  -- 2020/04/21 17:12:08 All Mail Sent to Pennsylvania Subscribers
+2020/04/22 13:20:10 - PA DATA CHECK (Update Needed)
+  -- 2020/04/22 13:20:10 All Mail Sent to Pennsylvania Subscribers
+2020/04/22 14:05:25 - US DATA CHECK (Update Needed)
+  -- 2020/04/22 14:05:25 All Mail Sent to United States Subscribers
+2020/04/23 13:44:53 - PA DATA CHECK (Update Needed)
+  -- 2020/04/23 13:44:53 All Mail Sent to Pennsylvania Subscribers
+2020/04/23 13:45:43 - US DATA CHECK (Update Needed)
+  -- 2020/04/23 13:45:43 All Mail Sent to United States Subscribers
+2020/04/24 14:59:59 - US DATA CHECK (Update Needed)
+  -- 2020/04/24 14:59:59 All Mail Sent to United States Subscribers
+2020/04/24 15:00:54 - PA DATA CHECK (Update Needed)
+  -- 2020/04/24 15:00:54 All Mail Sent to Pennsylvania Subscribers
+2020/04/25 15:20:36 - PA DATA CHECK (Update Needed)
+  -- 2020/04/25 15:20:36 All Mail Sent to Pennsylvania Subscribers
+2020/04/25 15:21:18 - US DATA CHECK (Update Needed)
+  -- 2020/04/25 15:21:18 All Mail Sent to United States Subscribers
+2020/04/26 17:47:46 - PA DATA CHECK (Update Needed)
+  -- 2020/04/26 17:47:46 All Mail Sent to Pennsylvania Subscribers
+2020/04/26 17:48:32 - US DATA CHECK (Update Needed)
+  -- 2020/04/26 17:48:32 All Mail Sent to United States Subscribers
+2020/04/27 14:25:48 - US DATA CHECK (Update Needed)
+  -- 2020/04/27 14:25:48 All Mail Sent to United States Subscribers
+2020/04/27 14:30:40 - PA DATA CHECK (Update Needed)
+  -- 2020/04/27 14:30:40 All Mail Sent to Pennsylvania Subscribers
+2020/04/28 14:29:38 - PA DATA CHECK (Update Needed)
+  -- 2020/04/28 14:29:38 All Mail Sent to Pennsylvania Subscribers
+2020/04/28 14:30:20 - US DATA CHECK (Update Needed)
+  -- 2020/04/28 14:30:20 All Mail Sent to United States Subscribers
+2020/04/29 12:32:09 - PA DATA CHECK (Update Needed)
+  -- 2020/04/29 12:32:09 All Mail Sent to Pennsylvania Subscribers
+2020/04/29 12:32:50 - US DATA CHECK (Update Needed)
+  -- 2020/04/29 12:32:50 All Mail Sent to United States Subscribers
+2020/05/01 17:29:28 - PA DATA CHECK (Update Needed)
+  -- 2020/05/01 17:29:28 All Mail Sent to Pennsylvania Subscribers
+2020/05/01 17:30:07 - US DATA CHECK (Update Needed)
+  -- 2020/05/01 17:30:07 All Mail Sent to United States Subscribers
+2020/05/02 15:22:53 - PA DATA CHECK (Update Needed)
+  -- 2020/05/02 15:22:53 All Mail Sent to Pennsylvania Subscribers
+2020/05/02 15:23:50 - US DATA CHECK (Update Needed)
+  -- 2020/05/02 15:23:50 All Mail Sent to United States Subscribers
+2020/05/03 13:00:48 - PA DATA CHECK (Update Needed)
+  -- 2020/05/03 13:00:48 All Mail Sent to Pennsylvania Subscribers
+2020/05/03 13:01:28 - US DATA CHECK (Update Needed)
+  -- 2020/05/03 13:01:28 All Mail Sent to United States Subscribers
+2020/05/04 15:11:17 - PA DATA CHECK (Update Needed)
+  -- 2020/05/04 15:11:17 All Mail Sent to Pennsylvania Subscribers
+2020/05/04 15:11:58 - US DATA CHECK (Update Needed)
+  -- 2020/05/04 15:11:58 All Mail Sent to United States Subscribers
+2020/05/05 15:17:31 - PA DATA CHECK (Update Needed)
+  -- 2020/05/05 15:17:31 All Mail Sent to Pennsylvania Subscribers
+2020/05/05 15:19:05 - US DATA CHECK (Update Needed)
+  -- 2020/05/05 15:19:05 All Mail Sent to United States Subscribers
