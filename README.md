@@ -1,1 +1,1 @@
-# COVID-19 Updates Project
+# COVID-19 Email Updates
