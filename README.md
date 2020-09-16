@@ -5,3 +5,4 @@ So I wrote a program that scrapes official websites for news and packs that info
 
 
 ## Demo
+![Farmers Market Finder Demo](demo/US.gif) ![Farmers Market Finder Demo](demo/PA.gif)
